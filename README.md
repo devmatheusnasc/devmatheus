@@ -3,7 +3,7 @@
 <br />
 
 
-- 🔭 Atualmente estou trabalhando em [API-CRUD](https://github.com/matheusd20m/Api-CRUD)
+- 🔭 Atualmente estou desenvolvendo [API-CRUD](https://github.com/matheusd20m/Api-CRUD)
 
 - 🌱 Atualmente estou aprendendo **Desenvolvimento Java, com Spring-Boot.**
 
