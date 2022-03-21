@@ -3,7 +3,7 @@
 <br />
 
 
-- 🔭 Atualmente estou desenvolvendo [cadastroUsuario](https://github.com/matheusd20m/SistemaPedidos)
+- 🔭 Atualmente estou desenvolvendo [SistemaPedidos](https://github.com/matheusd20m/SistemaPedidos)
 
 - 🌱 Atualmente estou aprendendo **Desenvolvimento Java, com Spring-Boot.**
 
