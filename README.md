@@ -3,8 +3,6 @@
 <br />
 
 
-- 🔭 Atualmente estou desenvolvendo [SistemaPedidos-1.1](https://github.com/matheusd20m/SistemaPedidos-1.1)
-
 - 🌱 Atualmente estou aprendendo **Desenvolvimento Java, com Spring-Boot.**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/matheusd20m?tab=repositories](https://github.com/matheusd20m?tab=repositories)
