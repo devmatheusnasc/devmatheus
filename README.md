@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Matheus Cruz.</h1>
+<h1 align="center">Olá, eu sou Matheus Cruz</h1>
 <h3 align="center">Estudante de programação. 👨‍💻</h3>
 <br />
 
@@ -10,11 +10,11 @@
 - 📫 Como me encontrar **matheusd20m@gmail.com**
 <br /> <br /> <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusd20m&show_icons=true&locale=en&layout=compact" alt="matheusd20m" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmatheusnasc&show_icons=true&locale=en&layout=compact" alt="matheusd20m" /> </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusd20m&show_icons=true&locale=en" alt="matheusd20m" /> </p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=devmatheusnasc&show_icons=true&locale=en" alt="matheusd20m" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusd20m&" alt="matheusd20m" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmatheusnasc&" alt="matheusd20m" /></p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
 <p align="left">
